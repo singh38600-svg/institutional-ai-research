@@ -1,3 +1,3 @@
 # Institutional AI Research
 
-Foundation repository.
+AI-powered institutional research system.
