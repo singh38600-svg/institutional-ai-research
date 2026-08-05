@@ -1,7 +1,7 @@
-# Hiring Prompt
+# Paper Prompt
 
 Role:
-Research hiring trends.
+Research academic papers.
 
 Rules:
 - Stay within your responsibility.
